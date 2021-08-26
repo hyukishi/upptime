@@ -30,3 +30,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+status-website: # Status website (optional)
+  cname: status.jgpihole.tk # Custom domain CNAME
+  name: Uptime Monitor # Status website title
