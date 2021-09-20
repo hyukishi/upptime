@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/plex.jgpihole.tk",
     "slug": "jg-pihole-plex-server",
     "status": "down",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 590,
-    "timeDay": 357,
-    "timeWeek": 276,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 579,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 579,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2021-08-26": 8
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 328,
-    "timeDay": 186,
-    "timeWeek": 236,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 327,
+    "timeDay": 221,
+    "timeWeek": 245,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2021-09-19": 25
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/bitwarden.jgpihole.tk",
     "slug": "bitwarden-rs",
     "status": "down",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 424,
-    "timeDay": 265,
-    "timeWeek": 250,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 412,
+    "timeDay": 73,
+    "timeWeek": 224,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2021-08-26": 8
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 1120,
-    "timeWeek": 352,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 261,
+    "timeDay": 154,
+    "timeWeek": 331,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
