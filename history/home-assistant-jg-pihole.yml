@@ -1,7 +1,7 @@
 url: https://jgpihole.duckdns.org
-status: down
-code: 503
-responseTime: 293
-lastUpdated: 2021-12-28T20:45:09.815Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2021-12-28T20:56:08.120Z
 startTime: Thu Aug 26 2021 21:18:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
