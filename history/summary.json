@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 4029,
-    "timeWeek": 1739,
-    "timeMonth": 728,
-    "timeYear": 650,
+    "time": 674,
+    "timeDay": 4201,
+    "timeWeek": 2394,
+    "timeMonth": 838,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2021-08-26": 8
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/jgpihole.duckdns.org",
     "slug": "home-assistant-jg-pihole",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
-    "time": 415,
-    "timeDay": 166,
-    "timeWeek": 220,
+    "uptimeYear": "99.67%",
+    "time": 413,
+    "timeDay": 142,
+    "timeWeek": 192,
     "timeMonth": 543,
-    "timeYear": 415,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2021-12-02": 21,
       "2021-10-31": 137,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 1389,
-    "timeWeek": 613,
-    "timeMonth": 277,
-    "timeYear": 435,
+    "time": 442,
+    "timeDay": 1428,
+    "timeWeek": 838,
+    "timeMonth": 321,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2021-08-26": 8
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 113,
-    "timeWeek": 168,
+    "time": 261,
+    "timeDay": 121,
+    "timeWeek": 142,
     "timeMonth": 207,
-    "timeYear": 262,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
