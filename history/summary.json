@@ -24,7 +24,7 @@
     "url": "https://jgpihole.duckdns.org",
     "icon": "https://favicons.githubusercontent.com/jgpihole.duckdns.org",
     "slug": "home-assistant-jg-pihole",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -36,6 +36,7 @@
     "timeMonth": 610,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-22": 17,
       "2022-04-01": 1304,
       "2022-03-31": 263,
