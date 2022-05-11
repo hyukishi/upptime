@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 132,
-    "timeWeek": 675,
+    "time": 495,
+    "timeDay": 111,
+    "timeWeek": 659,
     "timeMonth": 286,
-    "timeYear": 497,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2021-08-26": 8
     }
@@ -26,15 +26,15 @@
     "slug": "home-assistant-jg-pihole",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.33%",
-    "time": 421,
-    "timeDay": 268,
-    "timeWeek": 533,
+    "time": 420,
+    "timeDay": 318,
+    "timeWeek": 513,
     "timeMonth": 354,
-    "timeYear": 421,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-05-09": 22,
       "2022-04-28": 18,
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
-    "timeDay": 127,
-    "timeWeek": 494,
-    "timeMonth": 456,
+    "timeDay": 401,
+    "timeWeek": 537,
+    "timeMonth": 460,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2021-08-26": 8
@@ -83,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 167,
-    "timeWeek": 214,
-    "timeMonth": 277,
+    "timeDay": 256,
+    "timeWeek": 212,
+    "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {}
   }
